@@ -11,5 +11,4 @@ node_modules/
 dist/
 
 # Trabajos practicos (se entregan en el repo IADev)
-tp1/
-tp1_parte2/
+tp*/
